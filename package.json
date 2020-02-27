@@ -1,0 +1,25 @@
+{
+  "name": "create-front-framework",
+  "version": "0.0.1",
+  "description": "create-front-framework",
+  "scripts": {
+  },
+  "bin": {
+    "create-vue": "./bin/index.js"
+  },
+  "keywords": [
+    "front",
+    "vue",
+    "react",
+    "framework",
+    "Dllplugin",
+    "webpack"
+  ],
+  "author": "jaou",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^4.1.1",
+    "delete-directory": "^1.0.0",
+    "download-git-repo": "^3.0.2"
+  }
+}
